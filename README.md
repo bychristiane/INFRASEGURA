@@ -1,4 +1,4 @@
-## 📋 Escopo do Projeto INFRASEGURA - ETAPA I
+## 📋 Escopo do Projeto INFRASEGURA
 
 ### Visão Geral
 
