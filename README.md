@@ -42,3 +42,7 @@ O documento tem como objetivo central diagnosticar o estado atual das práticas 
 
 ---
 
+## 📸 Imagens do Projeto
+
+![Imagem do Projeto](./images/WhatsApp%20Image%202026-03-11%20at%2011.06.51%20AM.jpeg)
+
